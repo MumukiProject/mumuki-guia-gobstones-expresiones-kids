@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: program
+  inspection: UsesRepeat
+- binding: program
+  inspection: Uses:LimpiarYRegistrar
+- binding: LimpiarYRegistrar
+  inspection: UsesIf
+- binding: LimpiarYRegistrar
+  inspection: Uses:Registrar
