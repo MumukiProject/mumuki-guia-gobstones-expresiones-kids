@@ -1,0 +1,5 @@
+Como verás, no siempre se encuentran cosas útiles o históricas. Pero no por eso hay que dejar de investigar. ¡El trabajo constante y la perseverancia son fundamentales para descubrir en algún momento algo genial y único! :blush:
+
+Tal es el caso de **Ingentia Prima** (la primera gigante) hallada hace muy poquito en **Balde de Leyes**, provincia de **San Juan** por un equipo liderado por la **paleontóloga Cecilia Apaldetti** y **Ricardo Martínez** :open_mouth:. Fue importantísimo este descubrimiento porque, hasta el momento, se creía que los dinosaurios habían aparecido en el **Triásico**, y que eran muy **pequeños**; luego, evolucionaron, fueron creciendo y en el **Jurásico** aparecieron los **primeros gigantes**; y, por último, en el **Cretácico**, **todos** eran **enormes**. 
+
+Sin embargo, la _Ingentia Prima_ perteneció al período _Triásico_, lo cual tiró abajo toda la teoría. Así, esta se convirtió en el dinosaurio **gigante más antiguo**. :tada: 
