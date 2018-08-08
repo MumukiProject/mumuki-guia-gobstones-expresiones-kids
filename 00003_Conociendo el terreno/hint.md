@@ -1,0 +1,1 @@
+`Plantar Bandera` pondrá banderitas rojas `si no hay bolitas rojas` (si no hay banderas puestas) `y si hay bolitas verdes` (es decir, si hay pasto). 
