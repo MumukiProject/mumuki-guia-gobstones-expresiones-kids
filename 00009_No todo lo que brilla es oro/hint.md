@@ -1,0 +1,1 @@
+Podés borrar el bloque de `No Hacer Nada`, porque ahora sí tenemos una acción para ejecutar. :wink:
