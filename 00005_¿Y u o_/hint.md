@@ -1,0 +1,1 @@
+El bloque de `o bien` es el mismo que el de `y también`. Tocando en la flechita del bloque podrás seleccionar uno o el otro. 
