@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: program
+  inspection: Uses:MarcarParcela
+- binding: MarcarParcela
+  inspection: UsesIf
+- binding: program
+  inspection: UsesRepeat
