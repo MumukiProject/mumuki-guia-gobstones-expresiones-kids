@@ -1,0 +1,3 @@
+El **ámbar** se forma al endurecerse la resina de algunos árboles. En este proceso, pueden encerrar pedacitos de **plantas** o **insectos** en perfectas condiciones. Por esto, son piezas de gran interés científico. Recordá que cualquier dato, hasta el más chiquito, nos sirve para entender y reconstruir ese mundo tan lejano. :wink:
+
+En el otro extremo, tenemos hallazgos gigantes, como el **Giganotosaurus carolinii**, que es el dinosaurio carnívoro más grande encontrado hasta el momento :open_mouth:. En 1993, **Rubén Carolini** avisó que había encontrado un hueso de este enorme ejemplar en **Villa El Chocón**, provincia de **Neuquén**. Se encuentran algunos hallazgos de la zona en el **Museo Municipal Ernesto Bachmann**.

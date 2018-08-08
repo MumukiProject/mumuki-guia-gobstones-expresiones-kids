@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: program
+  inspection: Uses:Tamizar
+- binding: program
+  inspection: Uses:LimpiarConPincel
+- binding: program
+  inspection: Uses:SacarMolde

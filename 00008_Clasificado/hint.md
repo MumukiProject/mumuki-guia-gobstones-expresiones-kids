@@ -1,0 +1,1 @@
+Podés agregar todas las condiciones que quieras haciendo click derecho o manteniendo apretado sobre el bloque del condicional, y seleccionando **Agregar ‘si no, si’**.
