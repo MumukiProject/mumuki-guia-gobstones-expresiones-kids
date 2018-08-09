@@ -1,3 +1,6 @@
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-expresiones-kids/master/assets/toolbox.xml">
+</gs-toolbox>
+
 En el ejercicio anterior vimos un condicional con algo particular. En vez de tener un `si` y un `si no`, decía `si` y `si no, si`. ¿Qué diferencia hay? Que este último _condicional_ nos permite agregar nuevas condiciones para evaluar por separado otras situaciones.
 
 Por ejemplo, `si` encontramos un **hueso** :skull:, lo limpiamos con un **pincel**. `Si no, si` es una **huella** :paw_prints:, tomaremos un **molde** con plastilina. ¿Y `si no` es ninguna de esas cosas? Podemos `no hacer nada` o agregar otras clasificaciones para las cuales se hagan tratamientos específicos. 
