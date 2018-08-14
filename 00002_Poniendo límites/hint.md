@@ -1,1 +1,1 @@
-Recordá que para evaluar dos condiciones a la vez existe el operador lógico llamado: `y también`.
+Recordá que para evaluar dos condiciones a la vez existe el operador lógico llamado: `y también`. 
