@@ -1,5 +1,5 @@
 <gs-board without-header> GBB/1.0
-size 4 2
+size 2 4
 cell 0 0 Verde 1
 cell 0 1 Verde 1 Rojo 1 Negro 1
 cell 0 3 Verde 1 Negro 1 Azul 1 Rojo 1 
