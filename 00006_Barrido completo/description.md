@@ -1,3 +1,5 @@
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-expresiones-kids/master/assets/attires/config_1534261073557.json"></gs-attire>
+
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-expresiones-kids/master/assets/toolbox.xml">
 </gs-toolbox>
 
