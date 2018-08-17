@@ -9,4 +9,4 @@ Por ejemplo, si hay minerales, pondremos una banderita roja, sin importar que no
 
 ¡Juguemos un poco con los _conectores_! 
 
-> Ejecutá el programa tal como está para ver lo que sucede. Luego, modificalo para que plante la bandera si hay minerales o bien hay rocas. 
+> Ejecutá el programa tal como está para ver lo que sucede. Luego, modificalo para que plante la bandera si hay minerales o bien hay rocas.
