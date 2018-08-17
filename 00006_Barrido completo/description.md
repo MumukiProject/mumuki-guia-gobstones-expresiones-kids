@@ -7,6 +7,6 @@
 
 No te olvides de usar las herramientas que nos da la programación para no repetir muchas veces el mismo código y poder reutilizar. :wink:
 
-> Completá la condición del condicional para que ponga una bandera `si hay rocas o minerales`. Te convendrá extraer ese código en el procedimiento `Marcar Parcela`, 
+> Completá la condición del condicional para que ponga una bandera `si hay rocas o minerales`. Te convendrá extraer ese código en el procedimiento `Marcar Parcela`, para implementarlo
 
-> para implementarlo fácilmente en todo el terreno.
+> fácilmente en todo el terreno.
