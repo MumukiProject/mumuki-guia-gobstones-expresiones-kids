@@ -9,4 +9,6 @@ Por ejemplo, `si` encontramos un **hueso** :skull:, lo limpiamos con un **pincel
 
 El **ámbar** que tiene inclusiones fósiles (es decir, que encierra restos de alguna especie) se pasa por una especie de colador llamado **tamiz** para separarlo de la tierra y el polvo. ¡Animate a agregar esta expresión en otra condición! :smile:
 
-> Agregá en el programa la condición de que `si` lo que encontramos `es ámbar`, lo `tamice`. Te dejamos las condiciones y procedimientos necesarios listos para usar.
+> Agregá en el programa la condición de que `si` lo que encontramos `es ámbar`, lo `tamice`. Te dejamos 
+
+> las condiciones y procedimientos necesarios listos para usar.
