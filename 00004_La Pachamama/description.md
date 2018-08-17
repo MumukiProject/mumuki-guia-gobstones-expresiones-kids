@@ -7,4 +7,6 @@ Hasta ahora nos focalizamos en marcar el terreno que vamos a excavar con banderi
 
 En particular, marcaremos las parcelas donde la tierra contiene minerales o rocas sedimentarias, ya que estos elementos sobrevivieron al paso del tiempo conservando en su interior a los fósiles. 
 
-> Te dejamos el programa que pone una banderita `si` en la tierra `hay minerales` `o` `rocas sedimentarias`. Con que haya alguno de los dos será suficiente para poner la bandera. 
+> Te dejamos el programa que pone una banderita `si` en la tierra `hay minerales` `o` `rocas sedimentarias`. 
+
+> Con que haya alguno de los dos será suficiente para poner la bandera. 
