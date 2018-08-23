@@ -7,6 +7,6 @@ expectations:
 - binding: program
   inspection: Uses:SacarMolde
 - binding: program
-  inspection: Uses:LimpiarConJabón
+  inspection: Uses:LimpiarConJabon
 - binding: program
   inspection: Not:Uses:NoHacerNada
