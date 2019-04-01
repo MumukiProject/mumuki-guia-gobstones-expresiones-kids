@@ -7,4 +7,4 @@
 
 Lo bueno es que podemos reutilizar código que hayamos hecho anteriormente; así que solo tendremos que modificar la solución anterior. :smile:
 
-> Modificá el programa que hiciste para que ponga la banderita roja `si no hay` bandera (`bolitas rojas`) `y` `si hay` pasto (es decir, `bolitas verdes`).
+> Modificá el `programa` que hiciste para que ponga la banderita roja `si no hay` bandera (`bolitas rojas`) `y` `si hay` pasto (es decir, `bolitas verdes`).
