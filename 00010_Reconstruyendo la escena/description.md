@@ -9,4 +9,4 @@ Por lo tanto, nuestro último paso será recorrer todo el terreno, limpiando cad
 
 > Extraé este código en el procedimiento `Limpiar Y Registrar` para que, luego de limpiar cada hallazgo con el
 
-> proceso que corresponda, lo registre. Luego, invocalo en el programa para que lo ejecute en cada parcela. 
+> proceso que corresponda, lo registre. Luego, invocalo en el `programa` para que lo ejecute en cada parcela. 
