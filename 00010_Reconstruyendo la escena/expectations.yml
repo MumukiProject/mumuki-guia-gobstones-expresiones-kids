@@ -1,10 +1,14 @@
 ---
 expectations:
-- binding: program
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
   inspection: UsesRepeat
-- binding: program
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
   inspection: Uses:LimpiarYRegistrar
-- binding: LimpiarYRegistrar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: LimpiarYRegistrar
   inspection: UsesIf
-- binding: LimpiarYRegistrar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: LimpiarYRegistrar
   inspection: Uses:Registrar

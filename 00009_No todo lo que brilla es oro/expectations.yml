@@ -1,12 +1,17 @@
 ---
 expectations:
-- binding: program
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
   inspection: Uses:Tamizar
-- binding: program
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
   inspection: Uses:LimpiarConPincel
-- binding: program
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
   inspection: Uses:SacarMolde
-- binding: program
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
   inspection: Uses:LimpiarConJabon
-- binding: program
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
   inspection: Not:Uses:NoHacerNada

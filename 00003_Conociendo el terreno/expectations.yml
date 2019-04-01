@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: program
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
   inspection: Uses:PlantarBandera
-- binding: PlantarBandera
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: PlantarBandera
   inspection: UsesIf
-- binding: program
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
   inspection: UsesRepeat
