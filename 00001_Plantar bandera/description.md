@@ -9,4 +9,4 @@ Y como ya sabemos tomar decisiones ante diferentes alternativas con el _condicio
 
 > Definí el procedimiento `Poner Bandera` para que ponga una bolita roja.
 
-> Luego, construí el programa para que `si no hay` banderita (es decir, `bolitas rojas`), ponga la bandera y así delimitar el terreno. 
+> Luego, construí el `programa` para que `si no hay` banderita (es decir, `bolitas rojas`), ponga la bandera y así delimitar el terreno. 
