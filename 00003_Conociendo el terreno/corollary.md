@@ -1,1 +1,1 @@
-En el capítulo anterior usamos el condicional con la estructura de repetición dentro, combinada de diferentes maneras. Pero, en este ejercicio, acabamos de invertir ese orden; así, logramos `repetir` varias veces la pregunta del condicional en distintas parcelas. :wink: 
+En el capítulo anterior usamos el condicional con la estructura de repetición dentro, combinada de diferentes maneras. Pero, en este ejercicio, acabamos de invertir ese orden :hushed:; así, logramos `repetir` varias veces la pregunta del condicional en distintas parcelas. :wink: 
