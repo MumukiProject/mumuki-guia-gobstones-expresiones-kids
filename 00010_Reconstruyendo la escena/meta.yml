@@ -5,6 +5,12 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: Como en todas las actividades que finalizan una lección, tenemos que
+  combinar lo que aprendimos para resolver un problema más complejo. Si el procedimiento
+  se ocupa de la limpieza y el registro, ¿alcanzará con las instrucciones que extraigo
+  del programa? A la hora de recorrer el tablero solemos repetir muchas acciones y
+  movimientos, pero ya vimos que en ese caso tenemos que cuidar un aspecto especial,
+  ¿a qué hay que prestarle atención en este tipo de situaciones?
 manual_evaluation: false
 choices: []
 name: Reconstruyendo la escena
