@@ -5,6 +5,12 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "Las condiciones de una alternativa condicional siempre tienen un valor
+  de verdad. La forma en que usamos y combinamos los operadores nos permite construir
+  condiciones más complejas, es decir, analizar con mayor detalle el contexto. Para
+  pensar: \n\n* ¿Se te ocurren otros ejemplos de la vida cotidiana que dependan de
+  condiciones que podrías expresar utilizando `y también` y contrastar el resultado
+  si lo reemplazamos con `o bien`? \n* ¿Qué pasa en cada caso si negás alguna de ellas?"
 manual_evaluation: false
 choices: []
 name: "¿Y u o?"
