@@ -3,7 +3,14 @@ name: La historia con fin
 locale: es
 type: learning
 beta: false
-teacher_info: ''
+teacher_info: Las alternativas condicionales nos permiten analizar el contexto antes
+  de conocerlo. Si queremos analizar muchas posibilidades distintas, vamos a tener
+  que hacerle más preguntas al tablero para poder resolver nuestros problemas. En
+  esta lección exploramos nuevos operadores y estructuras de control que nos permitirán
+  distinguir más situaciones y hacer diferentes tareas según cada una de ellas. Antes
+  de seguir con esta lección es importante reflexionar acerca de lo que hicimos en
+  los capítulos anteriores, repasar sus aspectos principales y las dificultades que
+  nos presentaron cada uno de los conceptos que fueron incorporando.
 language: gobstones
 id_format: "%05d"
 order:
