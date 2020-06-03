@@ -5,6 +5,12 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "En cada ejercicio anterior fuimos considerando una nueva posibilidad
+  y según se cumpla o no, sumando nuevas tareas. El bloque principal dentro del programa
+  me da mucha información: \n\n* ¿Cuándo realizaré cada acción? \n* ¿Cuántos casos
+  estoy considerando? \n* ¿En qué situación debería limpiar con jabón? \n* ¿Si la
+  acción que realicé es `Tamizar`, qué condición fue verdadera? \n* ¿Podría realizar
+  otra acción incluída en el mismo bloque `si, si no, si`? ¿Por qué?"
 manual_evaluation: false
 choices: []
 name: No todo lo que brilla es oro
