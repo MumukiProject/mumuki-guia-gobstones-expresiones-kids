@@ -5,6 +5,12 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "En esta actividad tenemos que completar el procedimiento y el programa.
+  El procedimiento nos dice de forma muy puntual lo que hay que hacer, pero para el
+  programa tenemos que prestar más atención. Para pensar: \n\n* ¿Qué condición tenemos
+  que cumplir? \n* ¿Qué bloque tenemos que utilizar cuando hay una condición que tenemos
+  que cumplir pero empieza con la palabra **no**? \n* ¿Es lo mismo elegir el operador
+  `no` que el bloque `si, si no`? \n* ¿En qué casos elegirías una u otra posibilidad?"
 manual_evaluation: false
 choices: []
 name: Plantar bandera
